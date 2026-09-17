@@ -1,0 +1,18 @@
+Grok Build — Installationsordner (.bat)
+=======================================
+
+ZIP nach C:\GrokBuild entpacken.
+
+  C:\GrokBuild\
+    INSTALLIEREN.bat
+    OmniRoute-starten.bat
+    Grok-starten.bat
+    LESEN.txt
+
+1. INSTALLIEREN.bat doppelklicken
+2. OmniRoute-starten.bat  — Fenster offen lassen
+3. Grok-starten.bat
+
+Grok:          %USERPROFILE%\.grok\
+OmniRoute:     %USERPROFILE%\.omniroute\
+Arbeitsordner: C:\GrokBuild
